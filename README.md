@@ -1,6 +1,6 @@
 ### NAME: SURYANARAYANAN
 ### REG NO: 24900450
-### STUDY-OF-BASIC-GATES
+### EX 1 : STUDY OF BASIC GATES
 
 ### AIM: 
 
@@ -66,10 +66,7 @@ Y= A⊕B
 
 ### PROGRAM:
 ![WhatsApp Image 2024-11-07 at 10 00 52_0fba6409](https://github.com/user-attachments/assets/c84564d6-4b32-42ec-849d-f15e56fda905)
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+ 
  
 ### LOGIC SYMBOL & TRUTH TABLE:
 ![WhatsApp Image 2024-11-07 at 10 53 49_2d4a0a4e](https://github.com/user-attachments/assets/cc0f57dd-def8-4c72-847f-ececaa603943)
@@ -84,4 +81,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 ### RESULT:
 
-To study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
+study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
